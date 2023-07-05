@@ -1,0 +1,4 @@
+Var can be redeclared and reassigned; let cannot be redeclared but can be reassigned
+Var can be redeclared and reassigned; const cannot be redeclared or reassigned
+let cannot be redeclared but can be reassigned; const cannot be redeclared or reassigned
+JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code.
